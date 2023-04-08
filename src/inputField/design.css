@@ -1,0 +1,28 @@
+.designPart {
+    /* border: 1px solid red; */
+    width: 100%;
+}
+
+.langPart {
+    /* border: 1px solid red; */
+    margin-top: 150px;
+}
+
+.userInput {
+    display: flex;
+    /* border: 1px solid red; */
+    align-items: center;
+    justify-content: center;
+}
+
+.sliderPart {
+    /* border: 1px solid greenyellow; */
+    margin-top: 150px;
+    margin-left: 80px;
+}
+
+.randomSeedPart {
+    /* border: 1px solid lawngreen; */
+    margin-top: 150px;
+    margin-left: 80px;
+}
